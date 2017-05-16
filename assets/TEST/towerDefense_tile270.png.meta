@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "f4f9b863-9c7c-4bb8-a210-dd95d579ca3f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "towerDefense_tile270": {
+      "ver": "1.0.3",
+      "uuid": "8272aa6f-9852-4e97-b9ae-3776f14c6855",
+      "rawTextureUuid": "f4f9b863-9c7c-4bb8-a210-dd95d579ca3f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -1.5,
+      "trimX": 18,
+      "trimY": 8,
+      "width": 91,
+      "height": 115,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
